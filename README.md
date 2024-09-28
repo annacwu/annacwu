@@ -1,4 +1,9 @@
-## Hi there 👋
+# Anna Wu
+
+**CS Student @ [Reed College](https://www.reed.edu) '24**
+
+* Learning about iOS engineering in Swift and mobile development in React Native and Typescript
+* Aspiring game developer, currently working on a multiplayer card game in Unity
 
 <!--
 **annacwu/annacwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
