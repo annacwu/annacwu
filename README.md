@@ -2,7 +2,8 @@
 
 **CS Student @ [Reed College](https://www.reed.edu) '26**
 
-* Learning about iOS engineering in Swift and mobile development in React Native and Typescript
+* Practicing iOS mobile engineering in Swift
+* Learning web and mobile development in React Native and Typescript
 * Aspiring game developer, currently working on a multiplayer card game in Unity
 
 <!--
