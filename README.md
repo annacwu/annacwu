@@ -1,9 +1,9 @@
-# Anna Wu
+# Anna Wu (they/she)
 
 **CS Student @ [Reed College](https://www.reed.edu) '26**
 
-* Practicing iOS mobile engineering in Swift
 * Learning web and mobile development in React Native and Typescript
+* Practicing iOS mobile engineering in Swift
 * Aspiring game developer, currently working on a multiplayer card game in Unity
 
 <!--
